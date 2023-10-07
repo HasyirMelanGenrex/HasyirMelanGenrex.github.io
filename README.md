@@ -1,6 +1,1 @@
-# Data Enthusiast
-
-### Education
-University of Brawijaya
-
-### Work Experience
+# Welcome to my Gihub Page!
